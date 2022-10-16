@@ -12,7 +12,7 @@ Code
 
 'RealData2.R' is the R code for semi-conductor manufacturing process data analysis (Table 4) in the paper.
 
-'Supplementary Simulation.R' is the R code for simulation in appendix (Figure 3) in the paper
+'Supplementary Simulation.R' is the R code for simulation in appendix (Figure 3) in the paper.
 
 Data
 

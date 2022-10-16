@@ -474,6 +474,7 @@ L3=abs(screening(y3,x,h))
 L4=abs(screening(y4,x,h))
 L=L1^2+L2^2+L3^2+L4^2
 x1=localMax(L,floor(h*n))/n
+lambda=(4*mad(L1))^2+(4*mad(L2))^2+(4*mad(L3))^2+(4*mad(L4))^2
 candidate=x1[which(L[localMax(L,floor(h*n))]>lambda)]
 x2=c(0,(candidate[1:(length(candidate)-1)]+candidate[2:length(candidate)])/2,1.01)
 pvalue=1:length(candidate)

@@ -18,4 +18,4 @@ Data
 
 'CGHdataset' is the bladder tumor aCGH data used in 'RealData1.R' file.
 
-'' is the semi-conductor manufacturing process data used in 'RealData2.R' file.
+'secom.data' is the semi-conductor manufacturing process data used in 'RealData2.R' file.

@@ -2,6 +2,10 @@ Paper
 
 "simultaneous jump detection for multiple sequences via screening and multiple testing"
 
+Package
+
+Please install R packages "np" and "KernSmooth" before installing our "SaMT" package (i.e., file "SaMT_1.0.0.9000.tar.gz").
+
 Code
 
 'Simulation1.R' is the R code for Simulation 1 (Table 1 and Figure 2) in the paper.
